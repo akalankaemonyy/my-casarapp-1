@@ -30,6 +30,12 @@ import EssentialLink from 'components/EssentialLink.vue'
 
 const linksList = [
   {
+    title: 'Home',
+    caption: 'First page',
+    icon: 'home',
+    link: '/index',
+  },
+  {
     title: 'about',
     caption: 'akee construction about',
     icon: 'person',
